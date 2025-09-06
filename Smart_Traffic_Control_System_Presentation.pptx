@@ -1,0 +1,72 @@
+# Smart Traffic Control & Surveillance System Using AI & Real-Time Video Analytics
+
+## Title Slide
+- **Title:** Smart Traffic Control & Surveillance System Using AI
+- **Presented by:** [Your Name]
+- **Date:** [Presentation Date]
+
+## Introduction
+- Urban traffic issues
+
+## Project Vision
+- Adaptive AI-powered control
+
+## System Architecture
+- Diagram (camera -> AI -> control -> dashboard)
+
+## Key Features
+- AI detection
+- Adaptive signals
+- Violation logging
+- Emergency priority
+- Dashboard
+
+## Technology Stack
+- Python
+- OpenCV
+- TensorFlow
+- Flask/Django
+- etc.
+
+## AI & Video Analytics
+- YOLO detection
+- Density estimation
+- Violation logging
+
+## Real-Time Signal Control
+- Dynamic timings
+- Emergency override
+
+## Violation Detection & Evidence
+- Types
+- Proof
+- Logs
+
+## Web Dashboard & Analytics
+- Live feed
+- Logs
+- Analytics
+- User roles
+
+## Benefits & Impact
+- Reduced congestion
+- Safety
+- Data insights
+
+## Results & Demo
+- Screenshots
+- Analytics
+- Before/After
+
+## Limitations & Future
+- Infra needs
+- IoT
+- Predictive
+- Mobile alerts
+
+## Conclusion
+- AI for smart, safe, efficient traffic
+
+## GitHub & Q&A
+- Repo link
+- Questions
